@@ -1,4 +1,4 @@
-# DockerContainers
+# Docker Containers
 
 ## Dockerfile
 Basic Dockerfile contents should be as follows:
